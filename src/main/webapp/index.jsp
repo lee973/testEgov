@@ -2,3 +2,8 @@
 <%--<jsp:forward page="/sym/mms/EgovMainMenuHome.do"/>--%>
 <%--<jsp:forward page="WEB-INF/jsp/egovframework/com/cmm/EgovUnitMain.jsp"/>--%>
 <jsp:forward page="/index.do"/>
+<jsp:forward page="/index.do"/>
+<jsp:forward page="/index.do"/>
+<jsp:forward page="/index.do"/>
+<jsp:forward page="/index.do"/>
+<jsp:forward page="/index.do"/>
