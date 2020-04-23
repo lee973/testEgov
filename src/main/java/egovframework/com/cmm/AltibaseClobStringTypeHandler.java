@@ -39,7 +39,7 @@ import egovframework.rte.psl.orm.ibatis.support.AbstractLobTypeHandler;
  * does not have to be BLOB: For databases like MySQL and MS SQL Server, any
  * large enough binary type will work.
  *
- * @author Juergen Hoeller
+ * @author Juergen Hoellerasdasdasdsad
  * @since 1.1.5
  * @see org.springframework.orm.ibatis.SqlMapClientFactoryBean#setLobHandler
  */
