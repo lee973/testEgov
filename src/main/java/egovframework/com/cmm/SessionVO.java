@@ -14,8 +14,8 @@ import java.io.Serializable;
  * 
  *   수정일      수정자          수정내용
  *  -------    --------    ---------------------------
- *  2009.03.06  박지욱          최초 생성 
- *  
+ *  2009.03.06  박지욱          최초 생성 asdasd
+ *  zxczxc
  *  </pre>
  */
 @SuppressWarnings("serial")

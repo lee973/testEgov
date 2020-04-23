@@ -44,23 +44,23 @@ import egovframework.rte.psl.orm.ibatis.support.AbstractLobTypeHandler;
  * @see org.springframework.orm.ibatis.SqlMapClientFactoryBean#setLobHandler
  */
 @SuppressWarnings("deprecation")
-public class AltibaseClobStringTypeHandler extends AbstractLobTypeHandler {
+public class AltibaseClobStringTypeHandler2 extends AbstractLobTypeHandler {
 
-	private static final Logger LOGGER = LoggerFactory.getLogger(AltibaseClobStringTypeHandler.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(AltibaseClobStringTypeHandler2.class);
 
 	/**
 	 * Constructor used by iBATIS: fetches config-time LobHandler from
 	 * SqlMapClientFactoryBean.
 	 * @see org.springframework.orm.ibatis.SqlMapClientFactoryBean#getConfigTimeLobHandler
 	 */
-	public AltibaseClobStringTypeHandler() {
+	public AltibaseClobStringTypeHandler2() {
 		super();
 	}
 
 	/**
 	 * Constructor used for testing: takes an explicit LobHandler.
 	 */
-	protected AltibaseClobStringTypeHandler(LobHandler lobHandler) {
+	protected AltibaseClobStringTypeHandler2(LobHandler lobHandler) {
 		super(lobHandler);
 	}
 
