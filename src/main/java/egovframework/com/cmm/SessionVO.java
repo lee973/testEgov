@@ -30,7 +30,7 @@ public class SessionVO implements Serializable {
 	/** 사용자구분 */
 	private String sUserSe;
 	/** 조직(부서)ID */
-	private String orgnztId;
+	private String orgnztId; 
 	/** 고유아이디 */
 	private String uniqId;
 	/**
